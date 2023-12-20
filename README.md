@@ -1,7 +1,6 @@
-(https://pbs.twimg.com/profile_banners/1737361332159369216/1703055109/600x200)
 ### Hi there 👋, my name is Abdullah Al Masud
 #### Web Developer
-![Web Developer]
+![Web Developer](https://pbs.twimg.com/profile_banners/1737361332159369216/1703055109/600x200)
 
 I'm a Front End web developer. I worked for websites. I have dedication and interest about programming languages. I'm strategic, goal oriented and work always with an end goal in mind. I have done some projects by Python using Django framework. As I'm still a student, I'm still learning. I love to solve problems which I face in my projects. I have also some knowledge's about other programming languages like JavaScript's.
 
