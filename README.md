@@ -12,6 +12,7 @@ I'm a Front End web developer. I worked for websites. I have dedication and inte
 ✅HTML<br>
 ✅CSS<br>
 <br>
+## Information:<br>
 - 🔭 I’m currently working on Web Development 
 - 🧑‍💻 I’m currently learning Java 
 - 👯 I’m looking to collaborate on GitHub 
