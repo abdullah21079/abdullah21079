@@ -1,8 +1,6 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQEXPhx0-_byvw/profile-displaybackgroundimage-shrink_350_1400/0/1703059464174?e=1708560000&v=beta&t=l739abuIt3XYM2MySLxwmEBfLjURlK85o-zQyzePxmE)
-
 ### Hi there 👋, I'm Abdullah Al Masud
 #### Web Developer
-
+![Web Developer](https://media.licdn.com/dms/image/D5616AQEXPhx0-_byvw/profile-displaybackgroundimage-shrink_350_1400/0/1703059464174?e=1708560000&v=beta&t=l739abuIt3XYM2MySLxwmEBfLjURlK85o-zQyzePxmE)
 
 I'm a Front End web developer. I worked for websites. I have dedication and interest about programming languages.  I'm strategic, goal oriented and work always with an end goal in mind. I have done some projects by Python using Django framework. As I'm still a student, I'm still learning. I love to solve problems which I face in my projects. I have also some knowledge's about other programming languages like JavaScript's. 
 
@@ -24,7 +22,7 @@ Skills: Python / Django / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah21079)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullah21079&show_icons=true)  
+![GitHub status](https://github-readme-stats.vercel.app/api?username=abdullah21079&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/abdullah21079)  
 
