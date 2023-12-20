@@ -5,12 +5,12 @@
 
 I'm a Front End web developer. I worked for websites. I have dedication and interest about programming languages.  I'm strategic, goal oriented and work always with an end goal in mind. I have done some projects by Python using Django framework. As I'm still a student, I'm still learning. I love to solve problems which I face in my projects. I have also some knowledge's about other programming languages like JavaScript's. 
 
-## Skills :<br>
-✅Python / 
-✅Django /
-✅JS /
-✅HTML /
-✅CSS 
+Skills :
+Python / 
+Django /
+JS /
+HTML /
+CSS 
 
 
 - 🔭 I’m currently working on Web Development 
@@ -34,7 +34,6 @@ I'm a Front End web developer. I worked for websites. I have dedication and inte
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullah21079)  
 
-## Social Links : <br>
-<g xmlns="http://www.w3.org/2000/svg" data-testid="main-card-body" transform="translate(0, 55)">
+
           
   
