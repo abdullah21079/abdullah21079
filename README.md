@@ -26,5 +26,4 @@ Skills: Python / Django / JS / HTML / CSS
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/abdullah21079/contributions?format=svg&private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullah21079)  
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=abdullah21079)
