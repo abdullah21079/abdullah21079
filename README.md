@@ -1,5 +1,3 @@
-![Web Developer](https://media.licdn.com/dms/image/D5616AQEXPhx0-_byvw/profile-displaybackgroundimage-shrink_350_1400/0/1703059464174?e=1708560000&v=beta&t=l739abuIt3XYM2MySLxwmEBfLjURlK85o-zQyzePxmE)
-
 ## Hi there 👋, my name is Abdullah Al Masud
 ### Web Developer
 
