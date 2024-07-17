@@ -1,8 +1,10 @@
-## Hi there 👋, <br> My name is Abdullah Al Masud
-### Web Developer
+## Hi there 👋, <br> I'm Abdullah Al Masud
+### Frontend Developer
 
 
-I'm a Front End web developer. I worked for websites. I have dedication and interest about programming languages. I'm strategic, goal oriented and work always with an end goal in mind. I have done some projects by Python using Django framework. As I'm still a student, I'm still learning. I love to solve problems which I face in my projects. I have also some knowledge's about other programming languages like JavaScript's.
+I'm a passionate Frontend Web Developer with a strong foundation in Computer Science. My experience spans working on diverse websites, and I’ve even dabbled in backend development using Python with the Django framework. I pride myself on being strategic and goal-oriented, always keeping the end goal in sight.
+
+My dedication to programming languages and problem-solving drives me through the intricate and sometimes tedious research required in frontend development. While the process can occasionally feel monotonous, I always find it ultimately engaging and rewarding. My journey in tech is ongoing, as I continually seek to learn and enhance my skills.
 
 Skills:<br> ✅Python<br>✅Django<br>✅HTML<br>✅CSS<br>✅JavaScript
 
